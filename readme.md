@@ -1,3 +1,3 @@
-This is my git practice;
-Git is the best edition management system.
-The people who use SVN are totally dumb ass.
+What the hell, I forgot a lot of git command!
+I have to say that the people who use SVN are totally dumb ass!
+Will it be successful?
